@@ -1,0 +1,2 @@
+module UserMusicalInterestsHelper
+end

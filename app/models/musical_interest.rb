@@ -1,0 +1,2 @@
+class MusicalInterest < ApplicationRecord
+end
